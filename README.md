@@ -1,34 +1,43 @@
-# 👋 Hello, I'm Bricen Chitty
+# 🛡️ Bricen Chitty
+**Cybersecurity Analyst | Defense & Forensics | Automation Engineer**
 
-I'm a cybersecurity student at the University of Arizona, focusing on defense and digital forensics, with hands-on experience in secure coding and technical problem-solving.
+> "Learn by doing."
 
----
-
-## 🔍 About Me
-
-- 🏫 **Education**: Pursuing a degree in Cybersecurity with a concentration in Defense and Forensics at UofA, expected to graduate in Fall 2025.
-- 💼 **Work**: Coding intern at Margharita Adventures, where I develop escape room experiences. Previously, I served as a Chipotle manager, overseeing operations and food safety.
-- 🎓 **Certifications**: Certified Customer Service Professional (ETA International).
-- 💡 **Projects**: Built a secure password manager in Python, configured Raspberry Pi kiosks for dynamic webpages, and documented processes for cyber operations.
-
-## 🛠️ Skills
-
-- **Programming**: Python, HTML, CSS, JavaScript, SQL
-- **Cybersecurity Tools**: Wireshark, Virtual Machines, Node-RED
-- **Scripting**: Bash, PowerShell
-- **Collaboration Tools**: Microsoft Teams, Slack
-
-## 🌱 Current Goals
-
-- 🌐 Setting up my GitHub portfolio and building projects for my cybersecurity career
-- 🤖 Learning more about advanced Git, automation, and cybersecurity practices
-
-## 📫 Let's Connect!
-
-- LinkedIn: [Bricen Chitty](https://www.linkedin.com/in/bricenchitty/)
-- Email: bricenchitty@gmail.com
-- Online Resume: ([https://bold.pro/my/bricen-chitty](url))
+I am a Cybersecurity specialist from the **University of Arizona** (Defense & Forensics concentration). I bridge the gap between software security and physical hardware systems, leveraging a hands-on approach to build custom defense tools, automation flows, and forensic scripts.
 
 ---
 
-Thanks for visiting my profile! I'm always open to connecting with like-minded professionals in cybersecurity.
+## ⚡ Technical Arsenal
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Defense & Forensics** | Wireshark, Splunk, Autopsy, Snort, Virtual Machines (Kali/Ubuntu) |
+| **Languages** | Python (Scripting & Tooling), Rust (Learning), SQL, Bash, C++ (Arduino) |
+| **IoT & Automation** | Node-RED, MQTT, LinuxCNC, ESP32/Microcontrollers |
+| **Web & Interface** | HTML5, CSS3, JavaScript, REST APIs |
+
+---
+
+## 🔭 Active Development
+*Currently reading "Black Hat Python (2nd Ed)" and translating attack tools into defensive countermeasures.*
+
+- **[Project Name]**: Developing a Python-based network defense tool to detect ARP poisoning.
+- **Hardware Security**: integrating physical inputs with Node-RED state machines for secure logic control.
+- **Rust Upskilling**: Porting Python automation scripts to Rust for memory safety and performance.
+
+---
+
+## 💼 Engineering Experience
+
+**Logic & Systems Developer (Intern) | Margharita Adventures**
+- Developed complex game logic and state machines for physical escape room experiences.
+- Integrated software control systems with hardware sensors.
+- Documented technical processes for system operations and troubleshooting.
+
+---
+
+## 📫 Connect
+
+* **LinkedIn:** [Bricen Chitty](https://www.linkedin.com/in/bricenchitty/)
+* **Email:** bricenchitty@gmail.com
+* **Resume:** [View Full Professional Resume](https://bold.pro/my/bricen-chitty)
